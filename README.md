@@ -3,4 +3,19 @@ This repository holds the source code of Autumn Desktop and Mobile Roundcube Ski
 # How to install
 Read the instruction to activate the RoundcubeSkins : [Instructions to Use](https://roundcubeskins.com/activation-guide/)  
 
+
+# How do they look #
+
+## Desktop View ##
+
+![Autumn Desktop Roundcube Skins](images/autumn_mail.png)
+
+---
+
+## Mobile View ##
+
+![Autumn Mobile Roundcube Skins](images/antom.png)
+
+---
+
 We wish you a colorful experience while using the RoundcubeSkins.
